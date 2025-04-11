@@ -9,10 +9,12 @@ I worked on the majority of the code that set up the golf ball trajectory simula
 results and discussion in section (4). In addition to these technical aspects, I worked on the Introduction, Results and
 Discussion, as well as the References. I worked on 32% of the project, including edits and time spent writing and
 formatting the paper.
+
 **B. Luke H. McNamara**
 I worked on the introduction and the mathematical derivation. I interacted with ChatGPT to help find a topic that
 worked for everyone but also fell within the requirements of the report. Additionally, I helped format the Latex document
 and the nomenclature. I worked on 32% of the project, which includes formatting and writing the report.
+
 **C. Ella M. Young**
 I worked on the collection of data and writing section (4), and I worked on creating figures and justification for
 section (3) of the requirements for this project. In addition to this, I worked on the abstract, the conclusion, and
