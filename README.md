@@ -2,6 +2,23 @@
 
 This repository simulates the flight of a golf ball under various physical conditions using Python. The goal is to explore how different forces—gravity, drag, wind, and spin-induced lift—affect the ball's trajectory. The project includes visualizations, numerical solvers (RK4 and `solve_ivp`), and performance comparisons to better understand real-world golf ball dynamics.
 
+## Project Contributions
+
+### A. Rohan S. Kumar
+I worked on the majority of the code that set up the golf ball trajectory simulation in section (2) as well as the
+results and discussion in section (4). In addition to these technical aspects, I worked on the Introduction, Results and
+Discussion, as well as the References. I worked on 32% of the project, including edits and time spent writing and
+formatting the paper.
+### B. Luke H. McNamara
+I worked on the introduction and the mathematical derivation. I interacted with ChatGPT to help find a topic that
+worked for everyone but also fell within the requirements of the report. Additionally, I helped format the Latex document
+and the nomenclature. I worked on 32% of the project, which includes formatting and writing the report.
+### C. Ella M. Young
+I worked on the collection of data and writing section (4), and I worked on creating figures and justification for
+section (3) of the requirements for this project. In addition to this, I worked on the abstract, the conclusion, and
+formatting of the code in GitHub (organization and markdown explanations). I worked on 36% of the project, including
+edits and time spent writing the paper.
+
 ## Project Motivation
 
 Golf ball flight is a rich application of physics, involving fluid dynamics, force modeling, and numerical integration. This simulation aims to:
